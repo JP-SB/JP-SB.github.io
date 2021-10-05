@@ -1,3 +1,7 @@
+Moin Kalender-Macher, Hier eine Internetseite in Drei Minuten kostenlos erstellt.
+
+Gruß aus Finkenwerder!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JP-SB/JP-SB.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
